@@ -66,7 +66,7 @@ cd finance-ai
 2️⃣ Create a Virtual Environment
 python -m venv .venv
 .\.venv\Scripts\activate   # (Windows)
-# or
+or
 source .venv/bin/activate  # (Mac/Linux)
 
 3️⃣ Install Requirements
